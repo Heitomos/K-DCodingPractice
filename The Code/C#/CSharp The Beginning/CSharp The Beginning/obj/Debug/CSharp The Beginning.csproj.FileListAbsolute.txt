@@ -1,0 +1,6 @@
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\bin\Debug\CSharp The Beginning.exe.config
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\bin\Debug\CSharp The Beginning.exe
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\bin\Debug\CSharp The Beginning.pdb
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\obj\Debug\CSharp The Beginning.csprojResolveAssemblyReference.cache
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\obj\Debug\CSharp The Beginning.exe
+C:\The Code\C#\CSharp The Beginning\CSharp The Beginning\obj\Debug\CSharp The Beginning.pdb
